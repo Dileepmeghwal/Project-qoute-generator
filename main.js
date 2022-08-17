@@ -28,7 +28,7 @@ const qoutes = [{
 },
 
 {
-    qoute: "“I love you not only for what you are, but for what I am when I am with you. I love you not only for what you have made of yourself,",
+    qoute: "“I love you not only for what you are, but for what I am when I am with you.",
     person: "Elizabeth Barrett Browning"
 },
 
