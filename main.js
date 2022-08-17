@@ -13,8 +13,8 @@ const qoutes = [{
 },
 
 {
-    qoute: "“Loved you yesterday, love you still, always have, always will.”",
-    person: "Elaine Davis"
+    qoute: "hate you yesterday, love you still, always have, always will.”",
+    person: "Davis"
 },
 
 {

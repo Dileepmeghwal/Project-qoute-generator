@@ -36,7 +36,18 @@ body{
     padding: 50px 40px;
     box-shadow: 0 0 10px;
     transition: all 0.3s ease;
-    min-height: 300px;
+    max-height: 300px;
+    position: relative;
+}
+.q{
+    font-size:25rem;
+    opacity: 0.1;
+    position: absolute;
+    left: 0;
+    top: -45px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 .main-content .text-area{
     font-size: 1.5rem;
